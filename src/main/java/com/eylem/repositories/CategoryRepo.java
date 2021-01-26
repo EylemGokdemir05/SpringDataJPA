@@ -1,7 +1,6 @@
-package com.hkarabakla.repositories;
+package com.eylem.repositories;
 
-import com.hkarabakla.entities.Book;
-import com.hkarabakla.entities.Category;
+import com.eylem.entities.Category;
 import org.springframework.data.repository.CrudRepository;
 
 public interface CategoryRepo extends CrudRepository<Category, Integer> {

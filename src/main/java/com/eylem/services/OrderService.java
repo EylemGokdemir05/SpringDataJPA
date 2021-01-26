@@ -1,9 +1,9 @@
-package com.hkarabakla.services;
+package com.eylem.services;
 
-import com.hkarabakla.entities.Orders;
-import com.hkarabakla.repositories.BookRepo;
-import com.hkarabakla.repositories.OrderRepo;
-import com.hkarabakla.repositories.UserRepo;
+import com.eylem.entities.Orders;
+import com.eylem.repositories.BookRepo;
+import com.eylem.repositories.OrderRepo;
+import com.eylem.repositories.UserRepo;
 import org.springframework.stereotype.Component;
 
 import java.time.LocalDate;

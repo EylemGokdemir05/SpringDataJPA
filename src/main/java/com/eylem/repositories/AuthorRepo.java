@@ -1,6 +1,6 @@
-package com.hkarabakla.repositories;
+package com.eylem.repositories;
 
-import com.hkarabakla.entities.Author;
+import com.eylem.entities.Author;
 import org.springframework.data.repository.CrudRepository;
 
 public interface AuthorRepo extends CrudRepository<Author,Integer> {

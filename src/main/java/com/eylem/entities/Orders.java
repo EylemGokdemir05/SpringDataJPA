@@ -1,10 +1,8 @@
-package com.hkarabakla.entities;
+package com.eylem.entities;
 
 import javax.persistence.*;
 import java.time.LocalDate;
-import java.util.Date;
 import java.util.List;
-import java.util.Set;
 
 @Entity
 public class Orders {

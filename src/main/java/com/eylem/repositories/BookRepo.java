@@ -1,6 +1,6 @@
-package com.hkarabakla.repositories;
+package com.eylem.repositories;
 
-import com.hkarabakla.entities.Book;
+import com.eylem.entities.Book;
 import org.springframework.data.repository.CrudRepository;
 
 public interface BookRepo extends CrudRepository<Book,String> {

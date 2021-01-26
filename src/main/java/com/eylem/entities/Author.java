@@ -1,8 +1,7 @@
-package com.hkarabakla.entities;
+package com.eylem.entities;
 
 import javax.persistence.*;
 import java.util.List;
-import java.util.Set;
 
 @Entity
 public class Author {

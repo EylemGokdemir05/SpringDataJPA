@@ -1,9 +1,9 @@
-package com.hkarabakla;
+package com.eylem;
 
-import com.hkarabakla.services.BookService;
-import com.hkarabakla.services.CategoryService;
-import com.hkarabakla.services.OrderService;
-import com.hkarabakla.services.UserService;
+import com.eylem.services.BookService;
+import com.eylem.services.CategoryService;
+import com.eylem.services.OrderService;
+import com.eylem.services.UserService;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class App

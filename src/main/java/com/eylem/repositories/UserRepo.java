@@ -1,6 +1,6 @@
-package com.hkarabakla.repositories;
+package com.eylem.repositories;
 
-import com.hkarabakla.entities.User;
+import com.eylem.entities.User;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;
